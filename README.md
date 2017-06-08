@@ -4,7 +4,7 @@
 [![Ember Observer Score](https://emberobserver.com/badges/ember-inputmask.svg)](https://emberobserver.com/addons/ember-inputmask)
 
 This addon provides an general use input masking component using the
-[jquery.inputmask](https://github.com/RobinHerbots/Inputmask/tree/3.2.7) plugin,
+[inputmask](https://github.com/RobinHerbots/Inputmask/tree/3.2.7) plugin,
 along with a set of commonly used masks including:
 
 * Credit card inputs
